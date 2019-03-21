@@ -19,6 +19,7 @@ DEFAULT_BG_COLOR = '#272727'
 THUMB_SIZE = (200, 200)
 SCALE = 256.0
 
+#good job
 
 def down_scale(x):
     return x / SCALE
