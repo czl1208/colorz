@@ -20,6 +20,7 @@ THUMB_SIZE = (200, 200)
 SCALE = 256.0
 
 #good job
+# this is a demo comment
 
 def down_scale(x):
     return x / SCALE
